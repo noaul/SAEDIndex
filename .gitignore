@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# PyInstaller output (published via GitHub Releases)
+build/
+dist/
+
+# Local verification screenshots, smoke-test output and source snapshots
+verification/
+tests/out_*.png
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
